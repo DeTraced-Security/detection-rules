@@ -6,7 +6,7 @@
    Reference: https://detraced.org/posts/infostealer-turned-ransomware
 */
 
-rule MAL_BETRAY_RATON_AUG25_Stuff_Raton_0 {
+rule MAL_BETRAY_RATON_AUG25 {
    meta:
       description = "MAL_BETRAY_RATON_AUG25 - from files Stuff.dll, Raton.exe"
       author = "DeTraced Security"
