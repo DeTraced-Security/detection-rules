@@ -12,13 +12,13 @@ rule MAL_BETRAY_DROPPER_AUG25_fix {
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
-      yarahub_author_twitter: @DeTraced-Sec
-      yarahub_author_email: detraced-sec@proton.me
-      yarahub_uuid: 591e447e-c8f9-4f09-9974-26fddb131542
-      yarahub_license: CC BY 4.0
-      yarahub_rule_matching_tlp: TLP:WHITE
-      yarahub_rule_sharing_tlp: TLP:WHITE
-      yarahub_reference_md5: 221bb43b8065c5feb6d1090955e79089
+      yarahub_author_twitter = @DeTraced-Sec
+      yarahub_author_email = detraced-sec@proton.me
+      yarahub_uuid = 591e447e-c8f9-4f09-9974-26fddb131542
+      yarahub_license = CC BY 4.0
+      yarahub_rule_matching_tlp = TLP:WHITE
+      yarahub_rule_sharing_tlp = TLP:WHITE
+      yarahub_reference_md5 = 221bb43b8065c5feb6d1090955e79089
       hash1 = "f7f48790487fca492e7f7b795aba82d6d9e8f3f665e34e8dc6feace86341d6ce"
    strings:
       $s1 = "set \"patchUrl=https://api.filedoge.com/download/b7b2c457cdeb77e41cf390ac039214feaf60b2cd20f2c8174af42f80c4ca2139015659fa57ca564" ascii

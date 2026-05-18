@@ -12,13 +12,13 @@ rule MAL_BETRAY_DROPPER_AUG25_l6E {
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
-      yarahub_author_twitter: @DeTraced-Sec
-      yarahub_author_email: detraced-sec@proton.me
-      yarahub_uuid: f7d0f2a0-4e56-47b8-bf49-ab5d6ae93f4f
-      yarahub_license: CC BY 4.0
-      yarahub_rule_matching_tlp: TLP:WHITE
-      yarahub_rule_sharing_tlp: TLP:WHITE
-      yarahub_reference_md5: 0c5738f4b8bfcc506d84ba1b3c8b0640
+      yarahub_author_twitter = @DeTraced-Sec
+      yarahub_author_email = detraced-sec@proton.me
+      yarahub_uuid = f7d0f2a0-4e56-47b8-bf49-ab5d6ae93f4f
+      yarahub_license = CC BY 4.0
+      yarahub_rule_matching_tlp = TLP:WHITE
+      yarahub_rule_sharing_tlp = TLP:WHITE
+      yarahub_reference_md5 = 0c5738f4b8bfcc506d84ba1b3c8b0640
       hash1 = "cad387308c8848492c62cd8e9e45cb127709650167221bbe6a6538387c85be4e"
    strings:
       $s1 = "%aIijVjW%se%iNFDebk%t%QPHLs% \"YL2WG3s=2X2Ptlzt1rxGyOlbqjsZx+xPaXakjINZPLInNV5ctQQ2TmDEbzrIkfuG1GOOwyiYfSvNCxWkoNMThhpRLu3or8TmA" ascii

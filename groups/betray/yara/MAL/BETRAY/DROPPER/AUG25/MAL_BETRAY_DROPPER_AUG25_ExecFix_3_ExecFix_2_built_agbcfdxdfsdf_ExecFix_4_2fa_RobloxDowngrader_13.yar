@@ -12,13 +12,13 @@ rule MAL_BETRAY_DROPPER_AUG25_ExecFix_3_ExecFix_2_built_agbcfdxdfsdf_ExecFix_4_2
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
-      yarahub_author_twitter: @DeTraced-Sec
-      yarahub_author_email: detraced-sec@proton.me
-      yarahub_uuid: 628bd841-e306-4c00-8251-b24dff58761c
-      yarahub_license: CC BY 4.0
-      yarahub_rule_matching_tlp: TLP:WHITE
-      yarahub_rule_sharing_tlp: TLP:WHITE
-      yarahub_reference_md5: 18bd43b2dfad0c247148db1afdf8462e
+      yarahub_author_twitter = @DeTraced-Sec
+      yarahub_author_email = detraced-sec@proton.me
+      yarahub_uuid = 628bd841-e306-4c00-8251-b24dff58761c
+      yarahub_license = CC BY 4.0
+      yarahub_rule_matching_tlp = TLP:WHITE
+      yarahub_rule_sharing_tlp = TLP:WHITE
+      yarahub_reference_md5 = 18bd43b2dfad0c247148db1afdf8462e
       hash1 = "28867e19cd8669a1f570d41d3a8cf829c989931579c74d0278e31bfec4f03049"
       hash2 = "c9f3f1d7e7d8b6cb5630018c3bdc9ec9c5d069b47aabe3ddda630c93b2e0ede4"
       hash3 = "75b768ef203659bcc8134b36689732adbd2a50fa5a522270042026a17a1a2bfb"

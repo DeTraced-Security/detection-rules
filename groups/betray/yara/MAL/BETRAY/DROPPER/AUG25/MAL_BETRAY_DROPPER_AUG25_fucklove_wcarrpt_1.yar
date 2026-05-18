@@ -12,13 +12,13 @@ rule MAL_BETRAY_DROPPER_AUG25_fucklove_wcarrpt_1 {
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
-      yarahub_author_twitter: @DeTraced-Sec
-      yarahub_author_email: detraced-sec@proton.me
-      yarahub_uuid: f1876aa0-d0d9-402b-aae5-5ac3c89319a4
-      yarahub_license: CC BY 4.0
-      yarahub_rule_matching_tlp: TLP:WHITE
-      yarahub_rule_sharing_tlp: TLP:WHITE
-      yarahub_reference_md5: b69bb37ca650cd2f741fa0b9bb330522
+      yarahub_author_twitter = @DeTraced-Sec
+      yarahub_author_email = detraced-sec@proton.me
+      yarahub_uuid = f1876aa0-d0d9-402b-aae5-5ac3c89319a4
+      yarahub_license = CC BY 4.0
+      yarahub_rule_matching_tlp = TLP:WHITE
+      yarahub_rule_sharing_tlp = TLP:WHITE
+      yarahub_reference_md5 = b69bb37ca650cd2f741fa0b9bb330522
       hash1 = "8ad70d28d6cb914ddf0dfa0f4e45d1d45cba08a889cb53fb01157ee63eea6073"
       hash2 = "5d7642b9d233e44586fbbb1b564326e3419bb35e932c2241ec14f937bc42d135"
    strings:

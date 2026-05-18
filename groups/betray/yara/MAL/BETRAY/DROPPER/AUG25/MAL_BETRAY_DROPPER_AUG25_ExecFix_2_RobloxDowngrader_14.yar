@@ -12,13 +12,13 @@ rule MAL_BETRAY_DROPPER_AUG25_ExecFix_2_RobloxDowngrader_14 {
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
-      yarahub_author_twitter: @DeTraced-Sec
-      yarahub_author_email: detraced-sec@proton.me
-      yarahub_uuid: 3d9714d4-73b6-40c0-b62d-a9edd4269387 
-      yarahub_license: CC BY 4.0
-      yarahub_rule_matching_tlp: TLP:WHITE
-      yarahub_rule_sharing_tlp: TLP:WHITE
-      yarahub_reference_md5: 51b03d9bae4a53dd4e6210254084b806
+      yarahub_author_twitter = @DeTraced-Sec
+      yarahub_author_email = detraced-sec@proton.me
+      yarahub_uuid = 3d9714d4-73b6-40c0-b62d-a9edd4269387 
+      yarahub_license = CC BY 4.0
+      yarahub_rule_matching_tlp = TLP:WHITE
+      yarahub_rule_sharing_tlp = TLP:WHITE
+      yarahub_reference_md5 = 51b03d9bae4a53dd4e6210254084b806
       hash1 = "c9f3f1d7e7d8b6cb5630018c3bdc9ec9c5d069b47aabe3ddda630c93b2e0ede4"
       hash2 = "aa8af03833ca5030045f2937ccd1361217fa8515e85bfb63dbcfcc5162273a84"
    strings:

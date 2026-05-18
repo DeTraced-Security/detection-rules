@@ -12,13 +12,13 @@ rule MAL_BETRAY_DROPPER_AUG25_asd_installer__installer_10 {
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
-      yarahub_author_twitter: @DeTraced-Sec
-      yarahub_author_email: detraced-sec@proton.me
-      yarahub_uuid: 6562379b-6e62-4d75-ba92-f19705f56642
-      yarahub_license: CC BY 4.0
-      yarahub_rule_matching_tlp: TLP:WHITE
-      yarahub_rule_sharing_tlp: TLP:WHITE
-      yarahub_reference_md5: a4e53bf27bcd803a74d7f5bd348faaaf
+      yarahub_author_twitter = @DeTraced-Sec
+      yarahub_author_email = detraced-sec@proton.me
+      yarahub_uuid = 6562379b-6e62-4d75-ba92-f19705f56642
+      yarahub_license = CC BY 4.0
+      yarahub_rule_matching_tlp = TLP:WHITE
+      yarahub_rule_sharing_tlp = TLP:WHITE
+      yarahub_reference_md5 = a4e53bf27bcd803a74d7f5bd348faaaf
       hash1 = "6e5f4057a81b07cd68f83fa109c4ad4ddc39615643b8a7005da6e22498ed1fd6"
       hash2 = "2b6a513badc7dfb127f8b63acd7fcadae3d498d11176706ebfe6192fd242c696"
       hash3 = "2caa4b0b35816d523995705bd901a07e0a94e952ec514d83f63159495d7f6041"
