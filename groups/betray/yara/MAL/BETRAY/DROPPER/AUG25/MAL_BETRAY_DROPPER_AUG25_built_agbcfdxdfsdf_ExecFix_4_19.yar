@@ -12,6 +12,8 @@ rule MAL_BETRAY_DROPPER_AUG25_built_agbcfdxdfsdf_ExecFix_4_19 {
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
+      yarahub_author_twitter: @DeTraced-Sec
+      yarahub_author_email: detraced-sec@proton.me
       yarahub_uuid: 3aaba4a2-d618-4247-8169-b88d3e417afa 
       yarahub_license: CC BY 4.0
       yarahub_rule_matching_tlp: TLP:WHITE

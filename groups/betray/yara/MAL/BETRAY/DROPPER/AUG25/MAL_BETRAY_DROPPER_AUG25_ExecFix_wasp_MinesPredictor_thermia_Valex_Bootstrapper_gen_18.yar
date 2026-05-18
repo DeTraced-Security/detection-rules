@@ -12,6 +12,8 @@ rule MAL_BETRAY_DROPPER_AUG25_ExecFix_wasp_MinesPredictor_thermia_Valex_Bootstra
       author = "DeTraced Security"
       reference = "https://detraced.org/posts/infostealer-turned-ransomware"
       date = "2025-10-17"
+      yarahub_author_twitter: @DeTraced-Sec
+      yarahub_author_email: detraced-sec@proton.me
       yarahub_uuid: e68b4afb-7dfb-4b8e-a45b-c61c4bd9ffda
       yarahub_license: CC BY 4.0
       yarahub_rule_matching_tlp: TLP:WHITE
